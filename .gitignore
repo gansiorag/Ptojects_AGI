@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aigents-java/
 .idea/
+=======
+.jshintrc
+.gitignore
+>>>>>>> origin/HEAD
